@@ -18,7 +18,7 @@ const About = () => {
 
       <p className="mt-7 text-base leading-8 text-gray-500">
         I am a qualified and professional digital marketing expert with
-        five years of experience. My approach combines creative thinking
+        Two years of experience. My approach combines creative thinking
         with analytical skills to develop meaningful marketing strategies
         and deliver impactful campaigns.
       </p>
@@ -42,7 +42,7 @@ const About = () => {
     <div className="grid grid-cols-2 gap-4">
 
       <div className="rounded-3xl bg-[#F8F7F4] p-7 sm:p-10">
-        <p className="text-5xl font-bold text-[#E56B4B]">05+</p>
+        <p className="text-5xl font-bold text-[#E56B4B]">02+</p>
         <h3 className="mt-4 text-lg font-semibold">Years Experience</h3>
         <p className="mt-2 text-sm leading-6 text-gray-500">
           Professional experience in digital marketing.

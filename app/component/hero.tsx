@@ -24,7 +24,7 @@ const Hero = () => {
 
           <p className="mt-6 max-w-lg text-base leading-8 text-gray-500">
             A creative and analytical digital marketing professional with
-            5 years of experience, passionate about building meaningful
+            2 years of experience, passionate about building meaningful
             connections and delivering impactful campaigns.
           </p>
 
@@ -83,7 +83,7 @@ const Hero = () => {
           {/* Floating Experience Card */}
           <div className="absolute -left-5 top-1/3 rounded-2xl bg-white p-5 shadow-xl sm:-left-12">
             <p className="text-4xl font-bold tracking-tight">
-              5<span className="text-[#E56B4B]">+</span>
+              2<span className="text-[#E56B4B]">+</span>
             </p>
             <p className="mt-1 text-xs font-medium text-gray-500">
               Years of Experience

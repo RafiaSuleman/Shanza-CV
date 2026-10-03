@@ -64,7 +64,7 @@ export default function Contact() {
                     Phone
                   </p>
                   <p className="mt-1 text-sm font-medium">
-                    +92 317 4280236
+                    +92 329 4550288
                   </p>
                 </div>
               </div>
